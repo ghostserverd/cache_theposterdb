@@ -1,5 +1,5 @@
 // ==UserScript==
-// @name         Posterdb Cache
+// @name         ThePosterDB Cache
 // @version      0.1
 // @description  replace posterdb links with cloudformation cache links
 // @author       ghostserverd
